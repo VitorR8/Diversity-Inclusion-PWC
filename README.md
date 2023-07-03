@@ -1,6 +1,6 @@
 ## Diversity-Inclusion-PWC
 
-### Problem
+### Problem to be solve
 
 Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress.
 
@@ -32,4 +32,13 @@ Make insights report to showcase root cause for slow progress diversity and incl
 
 Microsoft Power BI and Google Sheets
 
-  
+### Overview:
+![!Screenshots/Overview.PNG](https://github.com/VitorR8/Diversity-Inclusion-PWC/blob/9a27fe602bbea00f5de9f05aaab168b3ba21ee88/Screenshots/Overview.PNG)
+### Hires:
+![!Screenshots/Hires.PNG](https://github.com/VitorR8/Diversity-Inclusion-PWC/blob/9a27fe602bbea00f5de9f05aaab168b3ba21ee88/Screenshots/Hires.PNG)
+### Resigns:
+![!Screenshots/Resigns.PNG](https://github.com/VitorR8/Diversity-Inclusion-PWC/blob/9a27fe602bbea00f5de9f05aaab168b3ba21ee88/Screenshots/Resigns.PNG)
+### Performance:
+![!Performance/Hires.PNG](https://github.com/VitorR8/Diversity-Inclusion-PWC/blob/9a27fe602bbea00f5de9f05aaab168b3ba21ee88/Screenshots/Performance.PNG)
+### Promotions:
+![!Promotions/Hires.PNG](https://github.com/VitorR8/Diversity-Inclusion-PWC/blob/9a27fe602bbea00f5de9f05aaab168b3ba21ee88/Screenshots/Promotions.PNG)
