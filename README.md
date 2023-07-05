@@ -43,6 +43,8 @@ Microsoft Power BI and Google Sheets
 ### Promotions:
 ![!Promotions/Hires.PNG](https://github.com/VitorR8/Diversity-Inclusion-PWC/blob/9a27fe602bbea00f5de9f05aaab168b3ba21ee88/Screenshots/Promotions.PNG)
 
+Feel free to check the public link right in the icon below:
+
 <div>
   <a href="https://app.powerbi.com/view?r=eyJrIjoiYTQzYzEyOGQtZGE1MC00MTNmLWJiMWItYmUxM2FmNzMyNzM5IiwidCI6IjcwNzJjNDIxLTRiY2QtNGVhMy05Nzk1LWY4MmI0NTc3NTM4NiJ9">
   <img height="40" width="120" src="https://github.com/VitorR8/Diversity-Inclusion-PWC/blob/5df73e01e4c1d73b06caf5154260ece93110f68f/Screenshots/power-bi-icon.png">
